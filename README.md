@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been coding for around 3 months and have learned a lot in that time from graduating from Lighthouse Labs.
+Recent Lighthouse Labs Graduate
 
 * 🌍  I'm based in Canmore
 * ✉️  You can contact me at [mathewsteenwinkel@gmail.com](mailto:mathewsteenwinkel@gmail.com)
