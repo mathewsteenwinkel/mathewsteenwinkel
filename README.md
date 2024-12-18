@@ -6,7 +6,7 @@ Web Developer
 
 Recent Lighthouse Labs Graduate
 
-* 🌍  I'm based in Canmore
+* 🌍  I'm based in Calgary, AB
 * ✉️  You can contact me at [mathewsteenwinkel@gmail.com](mailto:mathewsteenwinkel@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on project of all scale and open to ideas
