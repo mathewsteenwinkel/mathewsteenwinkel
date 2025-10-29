@@ -12,8 +12,7 @@ Recent Lighthouse Labs Graduate
 * 🤝  I'm open to collaborating on project of all scale and open to ideas
 * ⚡  avid rock climber
 
-[https://mathewsteenwinkel.github.io/Portfolio/
-](https://mathewsteenwinkel.github.io/)
+https://mathewsteenwinkel.github.io/
 ### Skills
 
 
